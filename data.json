@@ -17,5 +17,24 @@
       "y": 0.01,
       "z": 0.01
     }
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.2.1/examples/face-tracking/assets/earring/scene.gltf",
+    "facePosition": 127,
+    "position": {
+      "x": -0.03,
+      "y": -0.35,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.05,
+      "y": 0.05,
+      "z": 0.05
+    }
   }
 ]
