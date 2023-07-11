@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.2.2/examples/face-tracking/assets/glasses/scene.gltf",
+    "facePosition": 168,
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.01,
+      "y": 0.01,
+      "z": 0.01
+    }
+  }
+]
