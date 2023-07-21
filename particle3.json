@@ -1,0 +1,16 @@
+[
+  {
+    "preset": "snow",
+    "texture": "https://cdn.rawgit.com/IdeaSpaceVR/aframe-particle-system-component/master/dist/images/smokeparticle.png",
+    "color": "#ffffff",
+    "particleCount": 500,
+    "velocityValue": "0 8 0",
+    "accelerationValue": "0, 0, 0",
+    "maxAge": 3,
+    "size": "10",
+    "sizeSpread": "0",
+    "opacity": "1",
+    "opacitySpread": "0",
+    "positionSpread": "100 100 100"
+  }
+]
